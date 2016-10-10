@@ -3,7 +3,6 @@
 	<name>Lab_7.0</name>
 	<comment></comment>
 	<projects>
-		<project>Lab_2.0</project>
 		<project>Lab_3.0_Utility</project>
 	</projects>
 	<buildSpec>
